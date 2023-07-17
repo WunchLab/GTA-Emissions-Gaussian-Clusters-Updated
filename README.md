@@ -1,6 +1,11 @@
 ## README
 author: Juliette Lavoie  
-last modified: August 16th, 2019
+
+modified: Michael Raczkowski and Atlas Changulani
+
+last modified: July 17th 2023
+
+Modifications: bug fixes, converted AddDataToGaussianCluster to a .py file to make the code accessible on Spyder and PyCharm.
 
 #What is this repository for?
 
