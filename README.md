@@ -15,6 +15,8 @@ This repository creates the Gaussian Cluster map. It takes in the raw data from 
 
 I would recommend creating a virtual environment to install all the dependencies and run the notebook.
 
+Runtime on Jupyterlab is quite long; Spyder and Pycharm work better.
+
 Packages to install:
 folium, sklearn, pandas, numpy, matplotlib, scipy
 
