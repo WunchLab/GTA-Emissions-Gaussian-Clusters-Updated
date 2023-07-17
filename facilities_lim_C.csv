@@ -1,0 +1,78 @@
+TreatmentPlant,CH4 (t/y),Latitude,Longitude,Type,Treatment,Additional_info,Limit
+Ashbridges Bay,783,43.658942,-79.317386,Wastewater ,Anaerobic digester,nan,3998
+Humber Bay,164,43.633507,-79.479454,Wastewater ,Anaerobic digester,nan,1730
+Clarkson ,39,43.49581,-79.620343,Wastewater ,Anaerobic digester,nan,796
+Highland Creek,60,43.766362,-79.151001,Wastewater ,Anaerobic digester,nan,1001
+GE Booth ,28,43.577868,-79.546584,Wastewater ,Aerobic tanks?,nan,669
+Burlington Skyway,32,43.307828,-79.800675,Wastewater ,Anaerobic digester,nan,717
+Courtice,32,43.871124,-78.752855,Wastewater ,Anaerobic digester,nan,717
+Oakville Mid Halton,18,43.420801,-79.733362,Wastewater ,Anaerobic digester,nan,531
+Duffin Creek,58,43.820821,-79.049019,Wastewater ,Anaerobic digester,nan,983
+Harmony Creek,2,43.878836,-78.824087,Wastewater ,Anaerobic digester,nan,171
+Corbett,12,43.856467,-78.891647,Wastewater ,Anaerobic digester,nan,430
+Cannington,17,44.357098,-79.028521,Wastewater ,Seasonal lagoon,nan,515
+Inglewood ,4,43.798577,-79.931262,Wastewater ,Anaerobic digester,nan,244
+Oakville South West,8,43.413101,-79.693301,Wastewater ,Anaerobic digester,nan,349
+Georgetown,7,43.639975,-79.879365,Wastewater ,Anaerobic digester,nan,326
+Oakville South East,7,43.48229,-79.631582,Wastewater ,Anaerobic digester,nan,326
+Sunderland,7,44.274868,-79.058046,Wastewater ,Anaerobic lagoon,nan,326
+Acton,1,43.631228,-80.019542,Wastewater ,Anaerobic digester,nan,119
+Port Darlingtion,6,43.893177,-78.662583,Wastewater ,Anaerobic digester,nan,301
+Holland Landing Lagoons,34,44.118546,-79.481979,Wastewater ,Anaerobic lagoon,nan,740
+Milton,4,43.511931,-79.875646,Wastewater ,Anaerobic digester,nan,244
+Beare Road,4770,43.82505,-79.16188,solid waste,solid waste – gas recovery,nan,3998
+Dufferin Organics Processing,0,43.761298,-79.474748,solid waste,Organic Digester- Open Flare,closed until 2019,5
+Disco Road Organics Processing,170,43.700538,-79.602644,solid waste,Organic Digester- Enclosed Flare,nan,1765
+Highland creek,22,43.766764,-79.150668,solid waste,Sludge Incinerator,nan,589
+Keele Valley,21419,43.863803,-79.501375,solid waste,solid waste – gas recovery,nan,3998
+Thackeray,2508,43.762573,-79.585515,solid waste,solid waste ,nan,3998
+Richmond Hill Compost Facility,0,43.971458,-79.414527,solid waste,Compost ?,don't know the emissions,5
+Halton Regional Landfill – Milton,222,43.475722,-79.819882,solid waste,landfill,nan,2050
+Duffin Creek,68,43.820821,-79.049019,solid waste,Sludge Incinerator,nan,1070
+Scott,76,44.061,-79.2417,solid waste,landfill,nan,1136
+Oshawa,1100,43.925278,-78.835278,solid waste,landfill,nan,3998
+Brock,567,44.340303,-79.034356,solid waste,landfill,nan,3539
+Darlington,290,43.9145,-78.6942,solid waste,landfill,nan,2387
+Scugog,276,44.1131,-78.8174,solid waste,landfill,nan,2321
+Blackstock,10,44.1119,-78.8174,solid waste,landfill,nan,392
+Miller Waste Pickering,112,43.8289,-79.056,solid waste,Compost,nan,1402
+Miller Waste Clarington,112,43.8839447,-78.7549057,solid waste,Compost,nan,1402
+Brock West,1042,43.868496,-79.100544,solid waste,solid waste -  gas recovery,nan,3998
+Port Perry,0,44.110654,-78.964577,solid waste,landfill,don't know the emissions,5
+Palgrave Landfill Site,7,43.9513,-79.8138,solid waste,nan,nan,326
+Port Credit Memorial Park,25,43.551214,-79.587735,solid waste,nan,nan,630
+Centennial Park,31,43.686003,-79.75052,solid waste,nan,nan,705
+Professor’s Lake Park,70,43.743873,-79.737976,solid waste,nan,nan,1087
+Centre Street,77,43.610523,-79.57198,solid waste,nan,nan,1144
+Bolton Landfill Site,132,43.8841,-79.7321,solid waste,nan,nan,1534
+Streetsville,166,43.5843,-79.7177,solid waste,nan,nan,1742
+Mavis Road,230,43.5455,-79.6547,solid waste,nan,nan,2092
+Newman Landfill Site,265,43.5334,-79.6397,solid waste,nan,nan,2267
+Saddington Park,419,43.54643,-79.585319,solid waste,nan,nan,2956
+North Sheridan Landfill Site,895,43.5289,-79.6451,solid waste,landfill – flared,nan,3998
+Chinguacousy Landfill,692,43.799361,-79.84919,solid waste,nan,nan,3993
+Erindale Park,758,43.546995,-79.654902,solid waste,nan,nan,3998
+Albion Landfill,818,43.5843,-79.7177,solid waste,nan,nan,3998
+Caledon Sanitary Landfill Site,1454,43.838468,-80.017354,solid waste,nan,nan,3998
+Britannia Sanitary Landfill Site,8174,43.602023,-79.695199,solid waste,landfill – flared,nan,3998
+Peel Integrated Waste Management Facility,37,43.709983,-79.67194,solid waste,nan,nan,774
+Caledon Public Waste,242,43.840562,-80.018009,solid waste,nan,nan,2153
+Peel Curing Facility,93,43.799361,-79.84919,solid waste,nan,nan,1267
+Portlands Energy Centre LP - Portlands Energy Centre,100,43.6494603,-79.3308377,Power Plant,nan,nan,1318
+Sanofi Pasteur Limited - Sanofi Pasteur Limited -Connaught Campus,13,43.786461,-79.464369,Manufacturing,nan,nan,448
+York University - Keele Campus,5.6,43.7742,-79.5023,Power Plant,nan,nan,290
+York Energy Centre LP,6,44.0749737,-79.5321144,Power Plant,nan,nan,301
+Markham District Energy Inc. - Warden Energy Centre,4,43.846553,-79.333618,Power Plant,nan,nan,244
+Descor Industries Inc.,0,43.8300802,-79.349534,Manufacturing,nan,nan,5
+TransCanada Energy Ltd. - Halton Hills Generating Station,120,43.5588168,-79.8524932,Power Plant,nan,nan,1456
+Whitby Cogeneration L.P.,17,43.859374,-78.902599,Power Plant,nan,nan,515
+St. Marys Cement Inc. (Canada) - Bowmanville Cement Plant,14,43.7093319,-79.3541667,Manufacturing,nan,nan,466
+CRH Canada Group Inc. - Mississauga Cement Plant,247,43.492389,-79.622815,Manufacturing,nan,nan,2178
+Goreway Station Partnership - Goreway Power Station,61,43.746466,-79.679979,Power Plant,nan,nan,1010
+Emerald Energy From Waste Inc. - Emerald Energy from Waste Inc.,48,43.6973067,-79.680664,Power Plant,nan,nan,889
+Petro-Canada Lubricants Inc. - Mississauga Lubricants Centre,33,43.499146,-79.613081,Manufacturing,nan,nan,729
+TransAlta Generation Partnership - Mississauga Cogeneration Plant,22,43.6980572,-79.6427518,Power Plant,nan,nan,589
+The University of Toronto Central Steam Plant,nan,43.660211,-79.397909,Power Plant,nan,nan,nan
+Pearl Street Steam Plant- Enwave Energy Corporation,nan,43.648165,-79.386232,Power Plant,nan,nan,nan
+Walton Street Steam Plant - Enwave Energy Corporation,nan,43.6578,-79.38538,Power Plant,nan,nan,nan
+Redpath Sugar Refinery,nan,43.64252,-79.37075,Manufacturing,nan,nan,nan
